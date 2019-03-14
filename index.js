@@ -22,6 +22,6 @@ function sayHiToGrandma(string) {
   var upperCase = "YES INDEED!";
     return "YES INDEED!";
   } else{
-    var mixedCase = "I love you, Grandma."
-    return (mixedCase);
+    var mixedCase = "I love you, too."
+    return(mixedCase);
   }
