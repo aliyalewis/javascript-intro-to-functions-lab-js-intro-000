@@ -25,3 +25,4 @@ function sayHiToGrandma(string) {
     var mixedCase = "I love you, too.";
     return ("I love you, too.");
   }
+}
